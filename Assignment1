@@ -1,0 +1,22 @@
+ The virtual DOM is a virtual representation of the real DOM. Each time the data changes in a react app, a new virtual DOM gets created.Whenever any data changes in the React App, the entire UI is re-rendered in Virtual DOM representation. Now, the difference between the previous DOM representation and the new DOM is calculated.Once the calculations are completed, the real DOM updated with only those things which are changed.
+
+
+An SPA (Single-page application) is a web app implementation that loads only a single web document, and then updates the body content of that single document.
+
+
+Class component:If a component needs state or lifecycle methods, we should use the class component.
+Function component:These are the pure JavaScript functions that accept props object as the first parameter and return React elements.Function components use hooks also.
+
+
+State: the state of a component is an build in object 
+ use- its use to holds some information that may change over the component's lifetime.
+
+
+JSX-JSX stands for JavaScript XML. It is a React extension which allows writing JavaScript code that looks similar to HTML. It makes HTML file easy to understand. The JSX file makes the React application robust and boosts its performance. JSX provides you to write XML-like syntax in the same file where you write JavaScript code.
+
+
+ package.json: The main purpose of this file is to hold various metadata related to the project. The file is used to provide the information to the node package manager (NPM) that allows identifying the project and its dependencies.
+
+ React Native is a JavaScript framework for building native mobile apps,while React.js is a javascript library to built web applications.
+
+ react-router-dom is a package for using routing.
