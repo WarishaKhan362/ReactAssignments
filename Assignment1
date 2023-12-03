@@ -4,7 +4,7 @@
 An SPA (Single-page application) is a web app implementation that loads only a single web document, and then updates the body content of that single document.
 
 
-Class component:If a component needs state or lifecycle methods, we should use the class component.
+Class component:If a component needs state or lifecycle methods, we should use the class component.Life Cycle is of three phase Mounting,updating and unmounting.
 Function component:These are the pure JavaScript functions that accept props object as the first parameter and return React elements.Function components use hooks also.
 
 
